@@ -27,7 +27,7 @@ The supported gestures (shown in the video above) are:
 
 ## Hardware Used
 
-* dsPIC33CK CURIOSITY DEVELOPMENT BOARD [(DM330030)](https://www.microchip.com/Developmenttools/ProductDetails/DM164151)
+* dsPIC33CK CURIOSITY DEVELOPMENT BOARD [(DM330030)](https://www.microchip.com/en-us/development-tool/dm330030)
 * IMU 2 click board (https://www.mikroe.com/6dof-imu-2-click)
 
 
