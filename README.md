@@ -50,7 +50,7 @@ The data used for the development of this application can be found in dataset fo
 
 
 ## Data Collection Firmware
-A binary build of the data logging firmware used in the data collection for this project can be found in the binaries folder of this repo. To build data logging firmware for different sensor configurations, visit the [dspic33ck-curiosity-imu-data-logger repository.
+A binary build of the data logging firmware used in the data collection for this project can be found in the binaries folder of this repo. To build data logging firmware for different sensor configurations, visit the (https://github.com/MicrochipTech/ml-dsPIC33CK-Curiosity-IMU-Data-Logger) Repository.
 
 
 ## Sensor Configuration
